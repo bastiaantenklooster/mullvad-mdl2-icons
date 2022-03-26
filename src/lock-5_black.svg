@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="lock-5_black.svg">
+  <defs
+     id="defs3753">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 16 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="32 : 16 : 1"
+       inkscape:persp3d-origin="16 : 10.666667 : 1"
+       id="perspective5123" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="17.81845"
+     inkscape:cy="10.803215"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer7"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-intersection-paths="true">
+    <sodipodi:guide
+       position="2,15"
+       orientation="1,0"
+       id="guide3768"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3770"
+       empspacing="2"
+       dotted="false" />
+    <sodipodi:guide
+       position="18,30"
+       orientation="0,1"
+       id="guide3772"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30,18"
+       orientation="1,0"
+       id="guide3774"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12,2"
+       orientation="0,1"
+       id="guide3776"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7,29"
+       orientation="0,1"
+       id="guide3778"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6,3"
+       orientation="0,1"
+       id="guide3780"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,8"
+       orientation="1,0"
+       id="guide3782"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="29,16"
+       orientation="1,0"
+       id="guide3784"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3756">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Shackle closed"
+     style="display:none">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#10893e;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 16,4 c 3.324,0 6,2.676 6,6 v 4 H 10 v -4 c 0,-3.324 2.676,-6 6,-6 z"
+       id="rect4866-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccss" />
+  </g>
+  <g
+     inkscape:label="Body"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4862"
+       width="18"
+       height="14"
+       x="6"
+       y="15" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Shackle shape"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#892110;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4866"
+       width="12"
+       height="14"
+       x="10"
+       y="4"
+       rx="6"
+       ry="6" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Shackle opening 4"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 20,14.992879 V 8.9928788 c 0,-3.324 0.446,-6 1,-6 0.554,0 1,2.676 1,6 v 6.0000002"
+       id="rect5253"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Shackle opening 3"
+     style="display:none">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#108929;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 17,14 v -4 c 0,-3.324 1.115,-6 2.5,-6 1.385,0 2.5,2.676 2.5,6 v 4"
+       id="rect5275"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Shackle opening 5"
+     id="g5327"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:nodetypes="csssc"
+       inkscape:connector-curvature="0"
+       id="path5325"
+       d="m 21,14 v -4 c 0,-3.324 1.115,-6 2.5,-6 1.385,0 2.5,2.676 2.5,6 v 4"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#108929;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Shackle opening 2"
+     id="g4955"
+     inkscape:groupmode="layer">
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#108929;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 14,14 V 9 c 0,-2.77 1.784,-5 4,-5 2.216,0 4,2.23 4,5 v 5"
+       id="rect5139"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Shackle opening 1"
+     style="display:none">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#10893e;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 12,14 v -4 c 0,-3.324 2.23,-6 5,-6 2.77,0 5,2.676 5,6 v 4"
+       id="rect4931"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Keyhole"
+     style="display:none">
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#891010;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path4909"
+       cx="16"
+       cy="21"
+       r="3" />
+  </g>
+</svg>
